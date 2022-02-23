@@ -16,8 +16,8 @@ const Login = ({navigation}) => {
   const [password, setPassword] = useState(null);
 
   const handleLogin = () => {
-    console.log('login', username, password);
     const signInValue = signIn({username, password});
+    console.log('signInValue',signInValue)
   };
 
   return (
