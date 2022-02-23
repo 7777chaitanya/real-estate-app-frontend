@@ -59,5 +59,11 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
+# NOTES
+NOTES.md
+
+# config folder
+config/
+
 
 

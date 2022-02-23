@@ -17,7 +17,7 @@ const Login = ({navigation}) => {
 
   const handleLogin = () => {
     const signInValue = signIn({username, password});
-    console.log('signInValue',signInValue)
+    console.log('signInValue', signInValue);
   };
 
   return (
