@@ -60,10 +60,10 @@ buck-out/
 /ios/Pods/
 
 # NOTES
-personal/
+/personal
 
 # config folder
-config/
+/config
 
 
 
