@@ -1,4 +1,4 @@
-import backendUrl from '../config/default';
+import backendUrl from '../../config/default';
 import objectToQueryString from '../utils/objectToQueryString';
 
 export default async function (queryObject) {
